@@ -6,8 +6,8 @@ Usage : Playing music
 
 command:
 
-?help for specific command e.g ?help <play>.
+?help for specific command e.g ?help (play).
 ?whoami : Basic description.
-?play <what do you mant to play>.
+?play (what do you mant to play).
 ?stop : disconnecting bot from voice.
 ?credit : to show credit.
