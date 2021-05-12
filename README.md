@@ -6,7 +6,7 @@ Usage : Playing music
 
 command:
 
-?help for specific command e.g ?help <play>
+?help for specific command e.g ?help <play> 
   
 ?whoami : Basic description
 
